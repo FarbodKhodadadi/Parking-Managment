@@ -1,0 +1,15 @@
+request_spot Honda_Fit
+assign_spot 101
+assign_spot 301
+request_spot Peraid
+request_spot Samand
+request_spot Peraid
+assign_spot 245
+request_spot Ford_Expedition
+assign_spot 321
+request_spot Pershia
+checkout 101
+checkout 301
+assign_spot 255
+checkout 255
+checkout 321

@@ -1,0 +1,8 @@
+id,size,type
+101,1,normal
+301,2,covered
+201,3,CCTV
+245,2,normal
+255,1,CCTV
+443,3,covered
+321,3,normal

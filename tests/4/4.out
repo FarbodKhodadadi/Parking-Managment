@@ -1,0 +1,36 @@
+101: normal 250 50
+255: CCTV 330 110
+Spot 101 is occupied now.
+Spot 301 is occupied now.
+245: normal 300 70
+201: CCTV 430 140
+321: normal 350 80
+443: covered 400 110
+245: normal 300 70
+Spot 245 is occupied now.
+201: CCTV 430 140
+321: normal 350 80
+443: covered 400 110
+Spot 321 is occupied now.
+201: CCTV 430 140
+443: covered 400 110
+Spot 101 is free now.
+Total cost: 250
+Spot 301 is free now.
+Total cost: 350
+Spot 255 is occupied now.
+Spot 255 is free now.
+Total cost: 330
+Spot 321 is free now.
+Total cost: 350
+Spot 101 is occupied now.
+Spot 301 is occupied now.
+Spot 201 is occupied now.
+Spot 245 is free now.
+Total cost: 510
+Spot 101 is free now.
+Total cost: 400
+Spot 301 is free now.
+Total cost: 1150
+Spot 201 is free now.
+Total cost: 1550

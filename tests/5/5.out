@@ -1,0 +1,12 @@
+11: normal 100 20
+44: covered 150 50
+Spot 11 is occupied now.
+33: covered 250 70
+44: covered 150 50
+Spot 33 is occupied now.
+Spot 11 is free now.
+Total cost: 100
+11: normal 100 20
+44: covered 150 50
+Spot 33 is free now.
+Total cost: 390

@@ -1,0 +1,11 @@
+request_spot carD
+assign_spot 44
+assign_spot 22
+request_spot carC
+request_spot carA
+request_spot carB
+pass_time 6
+checkout 44
+request_spot carD
+pass_time 2
+checkout 22

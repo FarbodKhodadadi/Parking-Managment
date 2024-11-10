@@ -1,0 +1,13 @@
+request_spot Kia_Soul
+request_spot Chrysler_300
+request_spot Hyundai_Elantra
+assign_spot 48
+request_spot Volkswagen_Golf
+checkout 48
+request_spot Volkswagen_Golf
+assign_spot 21
+request_spot Volkswagen_Golf
+pass_time 5
+pass_time 1
+pass_time 4
+checkout 21

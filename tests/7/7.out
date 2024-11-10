@@ -1,0 +1,12 @@
+25: CCTV 530 150
+Spot 53 is occupied now.
+Spot 25 is occupied now.
+30: covered 830 95
+Spot 25 is free now.
+Total cost: 2030
+30: covered 830 95
+25: CCTV 530 150
+Spot 53 is free now.
+Total cost: 1780
+30: covered 830 95
+53: covered 830 95

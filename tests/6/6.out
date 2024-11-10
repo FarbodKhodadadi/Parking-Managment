@@ -1,0 +1,13 @@
+11: normal 455 23
+44: covered 505 53
+Spot 44 is occupied now.
+Spot 22 is occupied now.
+33: covered 395 108
+11: normal 455 23
+55: normal 700 56
+Spot 44 is free now.
+Total cost: 823
+11: normal 455 23
+44: covered 505 53
+Spot 22 is free now.
+Total cost: 1708

@@ -1,0 +1,15 @@
+37: covered 550 125
+14: normal 600 40
+59: covered 650 70
+21: CCTV 880 130
+48: normal 800 70
+Spot 48 is occupied now.
+21: CCTV 880 130
+Spot 48 is free now.
+Total cost: 800
+21: CCTV 880 130
+48: normal 800 70
+Spot 21 is occupied now.
+48: normal 800 70
+Spot 21 is free now.
+Total cost: 2180

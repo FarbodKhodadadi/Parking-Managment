@@ -1,0 +1,12 @@
+request_spot Ford_F150
+assign_spot 53
+assign_spot 25
+request_spot Mazda_3
+pass_time 5
+pass_time 1
+pass_time 4
+checkout 25
+request_spot Mazda_3
+request_spot Ford_F150
+checkout 53
+request_spot Mazda_3
