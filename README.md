@@ -1,2 +1,2 @@
-# Parking-Managment
-This is the second project of the AP course in University of Tehran.The program reads the data from 3 **CSV FILES** and stores them in diffrent data structures.<br/>Test 
+# Parking-Management
+This is the second project of the AP course in University of Tehran.The program reads the data from 3 **CSV FILES** and stores them in different data structures.<br/>By using default commands you can assign a parking spot for your vehicle based on its size.You can pass time and free the occupied parking spot and the program will show you the cost of each spot assigned to you.<br/>There's alot more to this Project so please check out the **Description File** for more info.
